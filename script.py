@@ -2,9 +2,7 @@ class Script(object):
 
     START_MSG = """<b>Hy {},
 
-I'm an advanced filter bot with many capabilities!
-There is no practical limits for my filtering capacity :)
-
+My Name, RuBy Filter Bot My Working Group @MMCINEMACHAKKU please join..❤ :)
 See <i>/help</i> for commands and more details.</b>
 """
 
